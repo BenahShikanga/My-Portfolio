@@ -62,6 +62,10 @@ jupyter notebook notebooks/sql_sales_analysis.ipynb
 
 ## Key insights
 
+| | |
+|---|---|
+| ![Monthly vs. cumulative revenue](images/04_running_total_revenue.png) | ![Top 10 countries by revenue](images/02_revenue_by_country.png) |
+
 - **412 orders from 59 customers generated $2,328.60**, an average order value of **$5.65** and **$39.47 average
   revenue per customer**.
 - **Revenue is geographically concentrated**: the USA alone generates ~22% of total revenue ($523), with Canada,
