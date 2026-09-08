@@ -23,6 +23,10 @@ forecasting model with an honest baseline comparison.
 
 ## Key findings
 
+| | |
+|---|---|
+| ![South vs. north price and gap over time](images/02_north_south_gap.png) | ![Price by zone with market regime](images/05_regimes.png) |
+
 - **The north/south price divide is large and real**: during the August–September 2022 peak, the single-day gap
   between southern Norway and NO4 (north) reached **7.96 NOK/kWh**; the 2022 average gap was **2.25 NOK/kWh**,
   versus just **0.31 NOK/kWh** by 2024 as prices normalized.

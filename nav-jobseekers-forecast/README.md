@@ -41,6 +41,10 @@ analysis, forecasting (with train/test evaluation), and KMeans clustering, fully
 
 ## Key findings
 
+| | |
+|---|---|
+| ![Job seekers by occupation group, 2002-2017](images/02_group_trends.png) | ![Forecast vs. actuals](images/05_forecast.png) |
+
 - **Job-seeker volume closely tracks real macroeconomic shocks** — the 2008–2009 financial crisis produced a
   sharp, visible spike in the aggregate series, a useful sanity check that this administrative data reflects real
   conditions.
